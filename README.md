@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrzhangF1ghter
-- 👀 I’m interested in IoT software&hardware,Embeded Linux
+- 👀 I’m interested in Embeded software&hardware
 - 🌱 I’m currently learning lvgl
 - 🚀 I’m currently working in drone field
 - 📫 zhangtec@foxmail.com
